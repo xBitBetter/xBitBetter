@@ -6,7 +6,7 @@
 
 🏠 我的博客：[dotneteye.blog](https://dotneteye.github.io/)
 
-![xBitBetter公众号](https://dotneteye.github.io/xbitbetter.png "xBitBetter公众号")
+![xBitBetter公众号](https://goohugo.github.io/xbitbetter.png "xBitBetter公众号")
 
 ⚡ 如果你有什么想和我交流的，欢迎关注xBitBetter公众号 💬
 
